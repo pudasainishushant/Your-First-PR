@@ -13,5 +13,6 @@
 | 9       | [Rakshita Jain](https://github.com/raksh543)               | National Institute of Technology, Patna                             | MERN                                          | Android (Frontend) | C++ |
 | 10      | [Rohan Shakya](https://github.com/Rohan-Shakya)            | Sagarmatha College of Science and Technology                        | React, Node.js, Express , MongoDB             |
 | 11      | [Rupesh Gelal](https://github.com/rgrupesh)                | Nepal Engineering College                                           | Python, DL, JavaScript                        |
-| 12      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python        |
-| 13      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
+| 12      | [Shushant Pudasaini](https://github.com/pudasainishushant) | Advanced College of Engineering                         | Python, Deep Learning, Django        |
+| 13      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python        |
+| 14      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
